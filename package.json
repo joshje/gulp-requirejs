@@ -9,7 +9,7 @@
   "keywords": [
   ],
   "dependencies": {
-    "gulp-util": "~2.2.5",
+    "gulp-util": "~3.0.8",
     "requirejs": "2.1.8",
     "event-stream": "~3.0.20"
   },
